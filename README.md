@@ -1,9 +1,6 @@
 Gmail-BIU
 =========
 
-Jira link:
-https://live-team-nlx6demi.atlassian.net/jira/software/projects/SCRUM/boards/1
-
 ---
 
 Overview
